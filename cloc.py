@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*
+
 import os
 
 def cloc(author, since_time, until_time, *dirs, **kwargs):
